@@ -8,9 +8,8 @@ const Navbar = () => {
      data-aos-easing="linear"
      data-aos-duration="500"
          className=" Navbar border-2 border-black h-[8vh] w-full pt-[1vh] fixed z-50 top-0 flex items-center justify-between bg-white ">
-        {/* logo section  */}
         <h1 className='LOGO'>
-        <a href="./#" className="px-[3rem] text-4xl font-Ramaraja  ">Pradeep Choudhary</a>
+        <a href="./#" className="px-[3rem] text-2xl font-Ramaraja  ">Pradeep Choudhary</a>
         </h1>
             {/* links section  */}
             <nav className=" hidden md:flex">
